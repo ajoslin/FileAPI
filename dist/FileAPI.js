@@ -2726,7 +2726,7 @@
 				}
 
 				if( file.file ){
-					data.append('_'+file.name, file.file);
+					// data.append('_'+file.name, file.file);
 				}
 			});
 		},
